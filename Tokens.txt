@@ -1,0 +1,2 @@
+
+Go to settings and choose developer option and create the tokens
