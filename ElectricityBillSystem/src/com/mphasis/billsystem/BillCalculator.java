@@ -14,7 +14,7 @@ public class BillCalculator {
 		{
 			billToPay =100*1.20 +(units = 100)*2;
 		}
-		System.out.println("The electricity bill for " +units+" is "+billToPay);;
+		System.out.println("The electricity bill for " +units+" is "+billToPay);
 	}
 
 }
