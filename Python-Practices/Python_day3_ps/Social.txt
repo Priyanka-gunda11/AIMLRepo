@@ -1,0 +1,3 @@
+Priya: 10
+Janu: 9
+Vinay: 9
