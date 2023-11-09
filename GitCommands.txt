@@ -1,6 +1,0 @@
-1. git clone url : used to clone the repo
-2.git add : to add the files to staging area
-3. git commit : to commit to the .git repo
-4. git push : to push to the central repo
-5. git push origin HEAD
-6.working on stash command
